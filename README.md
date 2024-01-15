@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou programador que atua no back-end e em análise de dados 👋
 
 <!--
 **KaikyDegasperi/KaikyDegasperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
