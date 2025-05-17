@@ -5,7 +5,7 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+###  Tecnologias que utilizo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,11 +21,10 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordegasperi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordegasperi&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victordegasperi&theme=tokyonight)
 
@@ -33,7 +32,7 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 ---
 
-### 💼 Áreas de Atuação
+### Áreas de Atuação
 
 - Inteligência Artificial e Deep Learning
 - Web Scraping e automações com Selenium e APIs
@@ -42,7 +41,9 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 ---
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-degasperi-3ab903206/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorkaiky.degasperi@gmail.com)
+
+--- coloque com o gráfico de linguagem
