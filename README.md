@@ -1,20 +1,20 @@
-# 👋 Olá! Eu sou o Victor Kaíky Oliveira Degasperi
+#  Olá! Eu sou o Victor Kaíky Oliveira Degasperi
 
-💻 Desenvolvedor Back-End | 🎓 Matemática e Engenharia de Software  
-🚀 Apaixonado por tecnologia, ciência de dados e automações web.
-
----
-
-### 🛠️ Tecnologias que uso
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+Back-end Developer | Data Scientist | AI Engineer  
+Graduando em Matemática (IFB) e Engenharia de Software
 
 ---
 
-### 📊 GitHub Stats
+###  Tecnologias que uso
+
+- **Linguagens:** Java (Spring Boot), Python (Pandas, NumPy, Scikit-learn), JavaScript (Node.js)
+- **Frameworks:** Spring Framework, Flask, TensorFlow, Keras
+- **Bancos de dados:** PostgreSQL, MySQL, MongoDB
+- **Ferramentas:** Docker, Git, Power BI, Selenium, Power Automate
+
+---
+
+###  GitHub Stats
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordegasperi&show_icons=true&theme=tokyonight)
 
@@ -22,16 +22,17 @@
 
 ---
 
-### 🧠 Interesses
+### Atuação
 
-- Inteligência Artificial e Deep Learning
-- Web Scraping e automações com Selenium
-- Desenvolvimento de APIs REST com Java + Spring
-- Projetos com foco educacional
+- IA e Deep Learning
+- Web Scraping e automações
+- Back end
+- Engenheiro de Dados
+
 
 ---
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/victor-degasperi-3ab903206/)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorkaiky.degasperi@gmail.com)
