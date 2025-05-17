@@ -1,16 +1,37 @@
-### Olá, sou programador que atua no back-end e em análise de dados 👋
+# 👋 Olá! Eu sou o Victor Kaíky Oliveira Degasperi
 
-<!--
-**KaikyDegasperi/KaikyDegasperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Back-End | 🎓 Matemática e Engenharia de Software  
+🚀 Apaixonado por tecnologia, ciência de dados e automações web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordegasperi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordegasperi&layout=compact&theme=tokyonight)
+
+---
+
+### 🧠 Interesses
+
+- Inteligência Artificial e Deep Learning
+- Web Scraping e automações com Selenium
+- Desenvolvimento de APIs REST com Java + Spring
+- Projetos com foco educacional
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil/)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
