@@ -45,5 +45,3 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-degasperi-3ab903206/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorkaiky.degasperi@gmail.com)
-
---- coloque com o gráfico de linguagem
