@@ -5,7 +5,7 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 ---
 
-###  Tecnologias que utilizo
+### Tecnologias que utilizo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,12 +23,11 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordegasperi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordegasperi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
+![Victor's GitHub Streak](https://streak-stats.demolab.com?user=victordegasperi&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victordegasperi&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=victordegasperi&theme=tokyo-night)
+![Victor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=victordegasperi&theme=tokyo-night)
 
 ---
 
