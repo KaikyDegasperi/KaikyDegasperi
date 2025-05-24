@@ -21,16 +21,6 @@ Graduando em Matemática (IFB) e Engenharia de Software
 
 ---
 
-### GitHub Stats
-
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordegasperi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Victor's GitHub Streak](https://streak-stats.demolab.com?user=victordegasperi&theme=tokyonight)
-
-![Victor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=victordegasperi&theme=tokyo-night)
-
----
-
 ### Áreas de Atuação
 
 - Inteligência Artificial e Deep Learning
